@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7F4E8D48-9F02-981D-F27F-892E248CF94A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/State.cs">
+    <Files>
+      <File FileName="Assets/AdventureGame.cs" Line="22" Column="1" />
+      <File FileName="Assets/FirstState.txt" Line="6" Column="19" />
+      <File FileName="Assets/State.cs" Line="5" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fd4db798-5c8a-4852-bda2-e2bc609aa561" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+﻿You have finaly made it. After fighting off the goblin ambush, and being robbed by the backstabing so called companions of yours, you see it.
+The old, dirty, rundown tavern, The Eyes Of The Beholder.
+
+What would you like to do?
+1) Enter the tavern.
+2) Go around back.
